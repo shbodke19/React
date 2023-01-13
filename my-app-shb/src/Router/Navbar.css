@@ -1,0 +1,19 @@
+* {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+a {
+  padding: 5px;
+  background-color: aqua;
+  width: 100%;
+  margin-left: 20px;
+}
+/* a.active {
+  text-decoration: none;
+  font-weight: bold;
+  color: brown;
+} */
+
+.primary {
+  background-color: aliceblue;
+  padding: 5px 10px;
+}

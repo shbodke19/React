@@ -1,0 +1,15 @@
+/* body {
+  background-color: yellowgreen;
+} */
+h1 {
+  color: brown;
+}
+.Primary {
+  background-color: aqua;
+  /* color: brown; */
+  width: 100%;
+  border: 2px solid red;
+}
+.font-xl {
+  font-size: 3rem;
+}
